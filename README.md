@@ -1,0 +1,1 @@
+Developing a RED CELL NETWORK  using HTML,CSS ,JAVASCRIPT ( building the user interface),Python with Django for handling data and user requests,SQLite for storing donor, blood stock, and request information andSSL encryption and OAuth for secure data handling.
